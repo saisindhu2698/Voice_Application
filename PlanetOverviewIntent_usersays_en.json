@@ -1,0 +1,493 @@
+[
+  {
+    "id": "5bdb485a-3d44-4c0b-9312-be8312e6e7f4",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "far",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " away is ",
+        "userDefined": false
+      },
+      {
+        "text": "Earth",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": " from the Sun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5af2744a-7059-43b1-a728-2a696b6e6519",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "distance",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Neptune",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": " in million kilometers.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34aae818-8319-4406-8be8-bb6748af3a03",
+    "data": [
+      {
+        "text": "Explain the significance of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027 ",
+        "userDefined": false
+      },
+      {
+        "text": "mass",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43d1ea76-6d8f-414a-9f23-246019e95e4a",
+    "data": [
+      {
+        "text": "Can you provide the ",
+        "userDefined": false
+      },
+      {
+        "text": "radius",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b2e7500-1c26-4496-9f55-f85619f26247",
+    "data": [
+      {
+        "text": "\"I\u0027m curious about the average ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturn",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff962230-a5db-4921-bf45-5bbde07be9a9",
+    "data": [
+      {
+        "text": "How long is the ",
+        "userDefined": false
+      },
+      {
+        "text": "orbital period",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "780deac9-9da7-4444-bbb5-6510d78678f3",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "mass",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Neptune",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4178ffba-8835-4cc2-b7db-560f4982b3e4",
+    "data": [
+      {
+        "text": "What does the ",
+        "userDefined": false
+      },
+      {
+        "text": "mass",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": " tell us?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f3af35c-1251-4a4b-be24-524ba2ec26ca",
+    "data": [
+      {
+        "text": "How ",
+        "userDefined": false
+      },
+      {
+        "text": "far",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " does it take for ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": " to orbit the Sun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dec7cca-6a51-4fe5-b235-a8b153b44d5a",
+    "data": [
+      {
+        "text": "Can you tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": false
+      },
+      {
+        "text": " conditions on ",
+        "userDefined": false
+      },
+      {
+        "text": "Uranus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c15beb2-1660-4f4b-838e-abc5bed89f81",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "distance",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Jupiter",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": " from the Sun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed3bcd9f-747c-4d6c-8efe-d84721171f5a",
+    "data": [
+      {
+        "text": "Give me the ",
+        "userDefined": false
+      },
+      {
+        "text": "radius",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturn",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0190653-cb68-4c19-9152-8b61f005c0b0",
+    "data": [
+      {
+        "text": "Tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "mass",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37486f9-5da8-4cfe-a605-8366ce2bc8f1",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Neptune",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc3eef2e-202a-4674-98d7-9fbf20abee6e",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "radius",
+        "meta": "@Details",
+        "alias": "Details",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Jupiter",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,381 @@
+[
+  {
+    "id": "e61bc8df-a6a2-468b-bedd-2be92eaec3e2",
+    "data": [
+      {
+        "text": "What is the gravitational force on ",
+        "userDefined": false
+      },
+      {
+        "text": "Jupiter",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s moon Io?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eafdabb0-fb6f-4c02-93a3-97fe1a1037d5",
+    "data": [
+      {
+        "text": "Calculate the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturn",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9976453b-1e6f-4cbe-bb09-390bff7d770f",
+    "data": [
+      {
+        "text": "Tell me about the gravitational pull on ",
+        "userDefined": false
+      },
+      {
+        "text": "Jupiter",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42832797-907d-4b93-9736-9a3d4e7c0c83",
+    "data": [
+      {
+        "text": "What is the gravity like on ",
+        "userDefined": false
+      },
+      {
+        "text": "Uranus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71358f8d-1f35-4161-9067-816891ee240c",
+    "data": [
+      {
+        "text": "Give me information about the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturn",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ed67526-0f55-4628-a881-197b6c8ef980",
+    "data": [
+      {
+        "text": "How does gravity vary on  ",
+        "userDefined": false
+      },
+      {
+        "text": "Mercury",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a81554c1-b2da-4935-97ba-4607ce2dd9e7",
+    "data": [
+      {
+        "text": "What is the gravitational field strength on ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfb4a99d-98d8-42b0-900a-1eb36f8c9ee9",
+    "data": [
+      {
+        "text": "I just wanna know about the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Earth",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bf0535d-bef6-4559-888e-917dcf97b82d",
+    "data": [
+      {
+        "text": "Tell me about the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Pluto",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbf276bb-457e-4915-9f89-a694b103e177",
+    "data": [
+      {
+        "text": "What\u0027s the gravitational acceleration on ",
+        "userDefined": false
+      },
+      {
+        "text": "Neptune",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe6670f8-7a07-47ac-ab67-ec1948f4c645",
+    "data": [
+      {
+        "text": "What is the gravity like on ",
+        "userDefined": false
+      },
+      {
+        "text": "Uranus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa861191-0e85-4004-ba28-47d0ffcd4428",
+    "data": [
+      {
+        "text": "How strong is gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturn",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeb3c9ad-cb27-4843-85b0-783792171b97",
+    "data": [
+      {
+        "text": "What\u0027s the gravitational force on ",
+        "userDefined": false
+      },
+      {
+        "text": "Mercury",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f80aefdf-c934-4e66-8c8e-e360f733cde3",
+    "data": [
+      {
+        "text": "Can you tell me the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Venus",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb29884a-b38c-4534-aaee-c6bc66e7ebfd",
+    "data": [
+      {
+        "text": "What is the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "jupiter",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "869cfbd3-3788-49e0-beda-36abce4d0c34",
+    "data": [
+      {
+        "text": "What is the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "earth",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e346144-c3bb-4af8-b25c-62b6b617c97f",
+    "data": [
+      {
+        "text": "What is the gravity on ",
+        "userDefined": false
+      },
+      {
+        "text": "Mars",
+        "meta": "@Planetname",
+        "alias": "Planetname",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
