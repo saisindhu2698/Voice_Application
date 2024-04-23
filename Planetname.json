@@ -1,0 +1,9 @@
+{
+  "id": "e436853c-1722-4e24-b514-f1da3479eea7",
+  "name": "Planetname",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

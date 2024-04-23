@@ -1,0 +1,9 @@
+{
+  "id": "755c21ea-3728-4751-acf0-46b4eb19e1f9",
+  "name": "pos",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
